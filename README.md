@@ -37,9 +37,10 @@ I am a **Power BI Developer** with over 3.5 years of experience transforming dat
 - **Loan Default Analysis**: This report provides loan default overview.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-sample-image-path/sales-dashboard.png" width="400">
-  <img src="https://user-images.githubusercontent.com/your-sample-image-path/hr-dashboard.png" width="400">
+  <img src="https://github.com/Sanjeev4318/Power-BI-Projects/blob/main/Uber%20Trip%20Analysis/UberTripAnalysis_SC.png" width="400">
+  <img src="https://github.com/Sanjeev4318/Power-BI-Projects/blob/main/RBC%20Customer%20Churn%20Analysis/RBC_SC.png" width="400">
   <img src="https://github.com/Sanjeev4318/Power-BI-Projects/blob/main/Loan%20Default%20Analysis/LoanDefault1_SC.png" width="400">
+  
 </p>
 
 ---
