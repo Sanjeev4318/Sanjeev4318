@@ -32,9 +32,9 @@ I am a **Power BI Developer** with over 3.5 years of experience transforming dat
 
 ### 🌟 Featured Projects
 
-- **Sales Insights Dashboard**: Interactive report for sales trends, forecasts, and regional analysis
-- **HR Analytics**: Employee attrition, headcount reports, diversity dashboards
-- **Finance Dashboard**: Cash flow, profit & loss, cost center performance
+- **Uber Trip Analysis**: Gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
+- **RBC Customer Churn Analysis**: Analyse the data and bring out few insights on the customer Churn
+- **Loan Default Analysis**: This report provides loan default overview.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-sample-image-path/sales-dashboard.png" width="400">
